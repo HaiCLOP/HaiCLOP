@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Discord https://discord.gg/6WKthUjnjK
 - 📫 How to reach me Discord https://discord.gg/6WKthUjnjK @haiclop
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am young developer which have Verified Discord bot https://discord.gg/AWQDTHFEsk
 
 <!---
 HaiCLOP/HaiCLOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
