@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaiCLOP
+- 👋 Hi, I’m Arnav Srivastava A.K.A @HaiCLOP
 - 👀 I’m a 14 year boy who loves to make cool and fun stuffs
 - 🌱 I’m currently learning Python
   
