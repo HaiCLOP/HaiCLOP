@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @HaiCLOP
-- 👀 I’m interested in Making discord bots
-- 🌱 I’m currently learning Python Js
-- 💞️ I’m looking to collaborate on Discord https://discord.gg/6WKthUjnjK
-- 📫 How to reach me Discord https://discord.gg/6WKthUjnjK @haiclop
+- 👀 I’m a 14 year boy who loves to make cool and fun stuffs
+- 🌱 I’m currently learning Python
+  
+- 📫 How to reach me: haiclop6@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am young developer which have Verified Discord bot https://discord.gg/AWQDTHFEsk
+https://discord.gg/AWQDTHFEsk
 
 <!---
 HaiCLOP/HaiCLOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
